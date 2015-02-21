@@ -9,7 +9,7 @@ Below is a proposed format for tracking the vote data.  It is very possible addi
 
 | City Journal Vol | City Journal Issue | Board Bill # | Vote Date | Vote Type | Alderman Last Name | Vote |
 |------------------|--------------------|--------------|-----------|-----------|--------------------|------|
-|  |   | can xref this w/ stuff later |  | type = committee, perfection, final passage | can xref w/ contact info later | vote = yes, no, present, no roll call |    
+|  |   | can xref this w/ stuff later |  | type = committee, perfection, final passage | can xref w/ contact info later | vote = yes, no, present, abstain, no roll call |    
 
 ##Challenges
 
