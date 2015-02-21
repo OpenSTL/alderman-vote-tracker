@@ -7,5 +7,6 @@ Right now, big focus is on liberating the vote data from City Journal PDFs - the
 
 Below is a proposed format for tracking the vote data.  It is very possible additional fields will need to be tracked - if you start digging into the City Journals and realize this format is not sufficient, please suggest changes!
 
-| City Journal Vol | City Journal Issue | Board Bill # | Vote Date | Alderman Last Name | Vote | Final (T/F) |
-|------------------|--------------------|--------------|-----------|--------------------|------|-------------|
+| City Journal Vol | City Journal Issue | Board Bill # | Vote Date | Vote Type | Alderman Last Name | Vote |
+|------------------|--------------------|--------------|-----------|-----------|--------------------|------|
+|  |   | can xref this w/ stuff later |  | type = committee, perfection, final passage | can xref w/ contact info later | vote = yes, no, present |    
